@@ -1,6 +1,7 @@
 import { AdminUser, AdminPermissions, Project, CaseStudy, Service, BlogPost, Testimonial, ContactMessage, AuditLog, MediaItem, EmailOutboxItem, DashboardStats, ChartDataPoint } from '../types/index.ts';
 
 const TOKEN_KEY = 'regards_tech_admin_token';
+const API_BASE_URL = (import.meta.env.VITE_API_URL || '').replace(/\/+$/, '');
 
 class ApiClient {
   private getToken(): string | null {
@@ -38,7 +39,11 @@ class ApiClient {
       headers['Authorization'] = `Bearer ${token}`;
     }
 
-    const response = await fetch(endpoint, {
+    const url = endpoint.startsWith('http://') || endpoint.startsWith('https://')
+      ? endpoint
+      : `${API_BASE_URL}${endpoint.startsWith('/') ? endpoint : `/${endpoint}`}`;
+
+    const response = await fetch(url, {
       ...options,
       headers
     });
