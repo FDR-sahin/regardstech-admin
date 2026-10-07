@@ -1,0 +1,6 @@
+{
+  "name": "Regards Tech - Professional Admin Panel",
+  "description": "Enterprise administration console for Regards Tech with REST APIs, role-based access control, analytics, content management, and Next.js integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

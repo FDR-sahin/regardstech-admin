@@ -1,0 +1,2022 @@
+{
+  "admins": [
+    {
+      "id": "adm_sahin_01",
+      "name": "Sahin Miah",
+      "email": "sahinfdr89@gmail.com",
+      "passwordHash": "$2b$10$./8S.c.Hn8VXR6nQKcX7eOul.eVsH.C9IsGX1dSbLWyRAFR92m7Xy",
+      "role": "super_admin",
+      "permissions": {
+        "dashboard": {
+          "view": true
+        },
+        "projects": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "services": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "blogs": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true,
+          "publish": true
+        },
+        "testimonials": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "messages": {
+          "view": true,
+          "markRead": true,
+          "delete": true
+        },
+        "admins": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "media": {
+          "view": true,
+          "upload": true,
+          "delete": true
+        },
+        "auditLogs": {
+          "view": true
+        }
+      },
+      "isEmailVerified": true,
+      "isActive": true,
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&h=200&q=80",
+      "createdAt": "2026-10-03T09:24:08.707Z",
+      "updatedAt": "2026-10-06T09:04:56.848Z",
+      "lastLoginAt": "2026-10-06T09:04:56.848Z",
+      "_id": "6ac54bc339ce8a56db90a388"
+    },
+    {
+      "id": "adm_super_01",
+      "name": "Super Admin",
+      "email": "admin@regardstech.com",
+      "passwordHash": "$2b$10$.DBLAPAoTBU8UByOIKGe.uvgMlKuoOF/PzsIfmPfA5AZ8hf25Rz8a",
+      "role": "super_admin",
+      "permissions": {
+        "dashboard": {
+          "view": true
+        },
+        "projects": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "services": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "blogs": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true,
+          "publish": true
+        },
+        "testimonials": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "messages": {
+          "view": true,
+          "markRead": true,
+          "delete": true
+        },
+        "admins": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "media": {
+          "view": true,
+          "upload": true,
+          "delete": true
+        },
+        "auditLogs": {
+          "view": true
+        }
+      },
+      "isEmailVerified": true,
+      "isActive": true,
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&h=200&q=80",
+      "createdAt": "2026-08-31T15:42:57.884Z",
+      "updatedAt": "2026-09-30T15:49:04.217Z",
+      "lastLoginAt": "2026-09-30T15:49:04.217Z",
+      "_id": "6ac54bc339ce8a56db90a389"
+    },
+    {
+      "id": "adm_sahin_02",
+      "name": "Sahin Miah",
+      "email": "sahinmiah1204@gmail.com",
+      "passwordHash": "$2b$10$D0gH.5lzuZLgcim3ZXw0N.4pTzplnjBe/s.9q3JjTK70Ib56XxEPu",
+      "role": "super_admin",
+      "permissions": {
+        "dashboard": {
+          "view": true
+        },
+        "projects": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "services": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "blogs": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true,
+          "publish": true
+        },
+        "testimonials": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "messages": {
+          "view": true,
+          "markRead": true,
+          "delete": true
+        },
+        "admins": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "media": {
+          "view": true,
+          "upload": true,
+          "delete": true
+        },
+        "auditLogs": {
+          "view": true
+        }
+      },
+      "isEmailVerified": true,
+      "isActive": true,
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&h=200&q=80",
+      "createdAt": "2026-10-04T09:04:54.533Z",
+      "updatedAt": "2026-10-06T19:31:49.956Z",
+      "resetPasswordAttempts": 0,
+      "lastLoginAt": "2026-10-06T19:31:49.956Z",
+      "_id": "6ac54bc339ce8a56db90a38a"
+    },
+    {
+      "id": "adm_1791201445573",
+      "name": "SAhin",
+      "email": "sahindeveloper043@gmail.com",
+      "passwordHash": "$2b$10$M.ihB6g0me1XQKhMtNnja.176d.wmNjPBJBmlFAjTcd0UZHDNz9.G",
+      "role": "admin",
+      "permissions": {
+        "dashboard": {
+          "view": true
+        },
+        "projects": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "services": {
+          "view": true,
+          "create": false,
+          "edit": false,
+          "delete": false
+        },
+        "blogs": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": false,
+          "publish": false
+        },
+        "testimonials": {
+          "view": true,
+          "create": false,
+          "edit": false,
+          "delete": false
+        },
+        "messages": {
+          "view": true,
+          "markRead": true,
+          "delete": false
+        },
+        "admins": {
+          "view": false,
+          "create": false,
+          "edit": false,
+          "delete": false
+        },
+        "media": {
+          "view": true,
+          "upload": true,
+          "delete": false
+        },
+        "auditLogs": {
+          "view": false
+        }
+      },
+      "isEmailVerified": true,
+      "verificationTokenExpires": 1791288265296,
+      "isActive": true,
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&h=200&q=80",
+      "createdAt": "2026-10-05T11:57:25.573Z",
+      "updatedAt": "2026-10-05T12:04:25.296Z",
+      "_id": "6ac54bc339ce8a56db90a38b"
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj_1791297423058",
+      "title": "dsdsd",
+      "slug": "sdsds",
+      "shortDescription": "sdsd",
+      "description": "sdsytytutyhdtg",
+      "category": "Web Development",
+      "technologies": [
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "PostgreSQL"
+      ],
+      "clientName": "fddfdf",
+      "projectUrl": "https://regardstech.com/",
+      "githubUrl": "https://regardstech.com/",
+      "completionDate": "2026-10-06",
+      "featured": false,
+      "status": "published",
+      "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80",
+      "images": [],
+      "seoTitle": "dsdsds",
+      "seoDescription": "dsdsd",
+      "createdAt": "2026-10-06T14:37:03.058Z",
+      "updatedAt": "2026-10-06T14:37:03.058Z",
+      "_id": "6ac54bc339ce8a56db90a38c"
+    },
+    {
+      "id": "proj_01",
+      "title": "Elabira",
+      "slug": "elabira",
+      "category": "E-Commerce",
+      "shortDescription": "An online shopping experience designed to help local retailers grow digitally.",
+      "description": "A multi-category D2C storefront built with Next.js, featuring optimized catalogue browsing, localized payment gateways, and sub-second page loads.",
+      "technologies": [
+        "Next.js",
+        "React",
+        "Tailwind CSS",
+        "Node.js"
+      ],
+      "clientName": "Elabira E-Commerce",
+      "projectUrl": "https://www.elabira.com",
+      "imageUrl": "https://images.unsplash.com/photo-1472851294608-062f824d29cc?auto=format&fit=crop&w=800&q=80",
+      "featured": true,
+      "status": "published",
+      "createdAt": "2026-09-30T17:28:49.388Z",
+      "updatedAt": "2026-09-30T17:28:49.388Z",
+      "_id": "6ac54bc339ce8a56db90a38d"
+    }
+  ],
+  "services": [
+    {
+      "id": "srv_01",
+      "name": "Web & App Development",
+      "slug": "web-app-development",
+      "icon": "Code",
+      "shortDescription": "Enterprise responsive websites, web applications, and iOS/Android mobile apps engineered for scale.",
+      "fullDescription": "We build high-performance web and mobile systems using Next.js, React, React Native, Node.js, and modern cloud architectures. Every system is optimized for speed, reliability, and security.",
+      "features": [
+        "Custom Web & Mobile App Development",
+        "Next.js 15 App Router & React Native",
+        "High-Throughput REST & GraphQL APIs",
+        "PostgreSQL & Cloud Infrastructure Setup"
+      ],
+      "order": 1,
+      "status": "active",
+      "createdAt": "2026-10-01T08:12:41.660Z",
+      "updatedAt": "2026-10-06T14:40:41.356Z",
+      "seoTitle": "RE",
+      "seoDescription": "",
+      "_id": "6ac54bc339ce8a56db90a38e"
+    },
+    {
+      "id": "srv_02",
+      "name": "Digital Marketing",
+      "slug": "digital-marketing",
+      "icon": "TrendingUp",
+      "shortDescription": "Full-funnel digital marketing, search engine optimization (SEO), and data-driven ad campaigns.",
+      "fullDescription": "Scale your online presence with targeted SEO, Google & Meta advertising, content strategy, and conversion rate optimization.",
+      "features": [
+        "Search Engine Optimization (SEO)",
+        "Pay-Per-Click (Google Ads & Meta Ads)",
+        "Content Marketing & Lead Funnels",
+        "Conversion Rate Optimization (CRO)"
+      ],
+      "order": 2,
+      "status": "active",
+      "createdAt": "2026-10-01T08:12:41.660Z",
+      "updatedAt": "2026-10-01T08:12:41.660Z",
+      "_id": "6ac54bc339ce8a56db90a38f"
+    },
+    {
+      "id": "srv_03",
+      "name": "Graphic Design",
+      "slug": "graphic-design",
+      "icon": "Palette",
+      "shortDescription": "Modern brand identities, UI/UX systems, motion graphics, and high-impact digital creatives.",
+      "fullDescription": "From corporate brand identities to complete mobile and web application design systems with Figma and Adobe Creative Suite.",
+      "features": [
+        "Brand Identity & Logo Systems",
+        "UI/UX Design & Prototyping (Figma)",
+        "Social Media & Marketing Collateral",
+        "Print & Packaging Design"
+      ],
+      "order": 3,
+      "status": "active",
+      "createdAt": "2026-10-01T08:12:41.660Z",
+      "updatedAt": "2026-10-01T08:12:41.660Z",
+      "_id": "6ac54bc339ce8a56db90a390"
+    },
+    {
+      "id": "srv_04",
+      "name": "Cyber Security",
+      "slug": "cyber-security",
+      "icon": "Shield",
+      "shortDescription": "Enterprise vulnerability assessment, penetration testing, infrastructure hardening, and threat monitoring.",
+      "fullDescription": "Protect mission-critical data, prevent ransomware and zero-day threats, and maintain compliance standards.",
+      "features": [
+        "Web & Mobile App Penetration Testing",
+        "Cloud & Server Infrastructure Hardening",
+        "Vulnerability Assessment & Auditing",
+        "Data Encryption & DDoS Protection"
+      ],
+      "order": 4,
+      "status": "active",
+      "createdAt": "2026-10-01T08:12:41.660Z",
+      "updatedAt": "2026-10-01T08:12:41.660Z",
+      "_id": "6ac54bc339ce8a56db90a391"
+    },
+    {
+      "id": "srv_1791297565260",
+      "name": "aaa",
+      "slug": "wewewe",
+      "icon": "Palette",
+      "shortDescription": "vvv",
+      "fullDescription": "bbbbb",
+      "features": [
+        "Full-stack engineering",
+        "Microservice cloud backend",
+        "Optimized Core Web Vitals"
+      ],
+      "order": 5,
+      "status": "active",
+      "seoTitle": "sdsdsd",
+      "createdAt": "2026-10-06T14:39:25.260Z",
+      "updatedAt": "2026-10-06T14:39:25.260Z",
+      "_id": "6ac54bc339ce8a56db90a392"
+    }
+  ],
+  "blogs": [
+    {
+      "id": "blog_1791297920094",
+      "title": "dfdfd",
+      "slug": "dfdfd",
+      "content": "### Introduction\n\nWrite your technical article here using standard formatting and structured headings.\n\n### Key Principles\n* Point 1: Edge architecture\n* Point 2: API zero-trust security\n* Point 3: Core Web Vitals optimization",
+      "excerpt": "rere",
+      "featuredImage": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=800&q=80",
+      "author": "Regards Tech Editorial",
+      "authorId": "adm_sahin_02",
+      "category": "Engineering",
+      "tags": [
+        "Engineering",
+        "Next.js",
+        "Cloud"
+      ],
+      "publishedAt": "2026-10-06T14:45:20.094Z",
+      "status": "published",
+      "featured": false,
+      "link": "https://regardstech.com/",
+      "views": 0,
+      "seoTitle": "erer",
+      "seoKeywords": [
+        "Next.js",
+        "Web Development"
+      ],
+      "createdAt": "2026-10-06T14:45:20.094Z",
+      "updatedAt": "2026-10-06T14:45:20.094Z",
+      "_id": "6ac54bc439ce8a56db90a398"
+    },
+    {
+      "id": "blog_01",
+      "title": "Architecting Scalable Next.js Applications with REST APIs and Edge Caching",
+      "slug": "architecting-scalable-nextjs-rest-apis",
+      "excerpt": "How modern engineering teams decouple administrative backends while delivering sub-50ms TTFB for public website visitors.",
+      "content": "### Why Architecture Matters for Tech Enterprises\n\nWhen scaling a modern technology company website like Regards Tech, separating administrative workflows from public marketing channels provides immense benefits in security, performance, and operational agility.\n\n### The Core Principles:\n1. **Stateless REST Communication**: Keep business logic clean and transportable.\n2. **Granular RBAC**: Ensure only authorized administrators can mutate client-facing content.\n3. **Edge Caching**: Serve cached JSON payloads to Next.js Incremental Static Regeneration (ISR) pipelines.\n\nBy leveraging this architecture, your Next.js frontend rebuilds only when changes are published from the Admin Panel.",
+      "featuredImage": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "author": "Sahin Miah",
+      "category": "Engineering",
+      "tags": [
+        "Next.js",
+        "REST API",
+        "Architecture",
+        "Web Dev"
+      ],
+      "status": "published",
+      "featured": true,
+      "publishDate": "2026-03-01",
+      "views": 1420,
+      "seoTitle": "Scalable Next.js Architecture with REST APIs | Regards Tech",
+      "seoDescription": "Guide to decoupling admin CMS from customer-facing Next.js frontend for maximum security.",
+      "seoKeywords": [
+        "Next.js",
+        "REST API",
+        "Web Architecture",
+        "SaaS CMS"
+      ],
+      "createdAt": "2026-09-04T15:42:57.884Z",
+      "updatedAt": "2026-09-30T15:42:57.883Z",
+      "_id": "6ac54bc439ce8a56db90a399"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "test_1791314516533",
+      "clientName": "dfrerererere",
+      "clientPhoto": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&h=200&q=80",
+      "position": "VP of Product",
+      "company": "erer",
+      "review": "ererer",
+      "rating": 5,
+      "status": "active",
+      "createdAt": "2026-10-06T19:21:56.535Z",
+      "updatedAt": "2026-10-06T19:21:56.535Z",
+      "_id": "6ac54bc439ce8a56db90a39a"
+    },
+    {
+      "id": "test_1791310182333",
+      "clientName": "bbb",
+      "clientPhoto": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&h=200&q=80",
+      "position": "VP of Product",
+      "company": "fdfdfd",
+      "review": "dfdfdf",
+      "rating": 5,
+      "status": "active",
+      "createdAt": "2026-10-06T18:09:42.334Z",
+      "updatedAt": "2026-10-06T18:09:42.334Z",
+      "_id": "6ac54bc439ce8a56db90a39b"
+    },
+    {
+      "id": "test_1791297307610",
+      "clientName": "sahin",
+      "clientPhoto": "data:image/jpeg;base64,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",
+      "position": "VP of Product",
+      "company": "ref=gards",
+      "review": "sdsdsd",
+      "rating": 5,
+      "status": "active",
+      "createdAt": "2026-10-06T14:35:07.610Z",
+      "updatedAt": "2026-10-06T14:35:07.610Z",
+      "_id": "6ac54bc439ce8a56db90a39c"
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg_1791314905849",
+      "name": "Sahin Miah",
+      "email": "sahinmiah1204@gmail.com",
+      "subject": "sasa",
+      "message": "asas",
+      "status": "replied",
+      "createdAt": "2026-10-06T19:28:25.849Z",
+      "updatedAt": "2026-10-06T19:33:49.790Z",
+      "_id": "6ac54bdb39ce8a56db90a3f7",
+      "replyNote": "abd",
+      "repliedAt": "2026-10-06T19:33:49.789Z"
+    },
+    {
+      "id": "msg_1791314277789",
+      "name": "Sahin Miah",
+      "email": "sahindeveloper043@gmail.com",
+      "phone": null,
+      "subject": "sdsd",
+      "message": "sdsd",
+      "status": "replied",
+      "createdAt": "2026-10-06T19:17:57.789Z",
+      "updatedAt": "2026-10-06T19:18:08.390Z",
+      "replyNote": "sdsdsd",
+      "repliedAt": "2026-10-06T19:18:08.390Z",
+      "_id": "6ac54bc439ce8a56db90a39d"
+    },
+    {
+      "id": "msg_1791311196546",
+      "name": "dsds",
+      "email": "sahin.dev1067@gmail.com",
+      "subject": "dsd",
+      "message": "sd",
+      "status": "replied",
+      "createdAt": "2026-10-06T18:26:36.546Z",
+      "updatedAt": "2026-10-06T18:28:10.672Z",
+      "replyNote": "love",
+      "repliedAt": "2026-10-06T18:28:10.672Z",
+      "_id": "6ac54bc439ce8a56db90a39e"
+    },
+    {
+      "id": "msg_1791310306397",
+      "name": "Sahin Dev",
+      "email": "sahindeveloper034@gmail.com",
+      "subject": "app",
+      "message": "frf",
+      "status": "replied",
+      "createdAt": "2026-10-06T18:11:46.397Z",
+      "updatedAt": "2026-10-06T18:24:39.751Z",
+      "replyNote": "hijjff",
+      "repliedAt": "2026-10-06T18:24:39.751Z",
+      "_id": "6ac54bc439ce8a56db90a39f"
+    },
+    {
+      "id": "msg_1791309936160",
+      "name": "Sahin Dev",
+      "email": "sahin.dev1067@gmail.com",
+      "subject": "app",
+      "message": "hi",
+      "status": "replied",
+      "createdAt": "2026-10-06T18:05:36.160Z",
+      "updatedAt": "2026-10-06T18:05:53.149Z",
+      "replyNote": "hello",
+      "repliedAt": "2026-10-06T18:05:53.149Z",
+      "_id": "6ac54bc439ce8a56db90a3a0"
+    },
+    {
+      "id": "msg_1791297153550",
+      "name": "Sahin Miah",
+      "email": "sahinfdr89@gmail.com",
+      "subject": "app",
+      "message": "hi",
+      "status": "replied",
+      "createdAt": "2026-10-06T14:32:33.551Z",
+      "updatedAt": "2026-10-06T14:33:00.348Z",
+      "replyNote": "hwllo",
+      "repliedAt": "2026-10-06T14:33:00.348Z",
+      "_id": "6ac54bc439ce8a56db90a3a1"
+    }
+  ],
+  "visitorEvents": [
+    {
+      "id": "pv_1791311185181_5r3ogsg",
+      "pageViewId": "pv_1791311185181_5r3ogsg",
+      "visitorId": "vid_1791023826802_8f5a3ii",
+      "sessionId": "sess_1791309912045_4bdc7xi",
+      "path": "/contact",
+      "referrer": "Internal",
+      "device": "Desktop",
+      "browser": "Chrome",
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "duration": 1,
+      "isNewVisitor": true,
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T18:26:26.350Z",
+      "_id": "6ac54bc439ce8a56db90a3a2"
+    },
+    {
+      "id": "pv_1791311185247_e601ots",
+      "pageViewId": "pv_1791311185247_e601ots",
+      "visitorId": "vid_1791023826802_8f5a3ii",
+      "sessionId": "sess_1791309912045_4bdc7xi",
+      "path": "/contact",
+      "referrer": "Internal",
+      "device": "Desktop",
+      "browser": "Chrome",
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "duration": 317,
+      "isNewVisitor": false,
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T18:26:26.423Z",
+      "_id": "6ac54bc439ce8a56db90a3a3"
+    },
+    {
+      "id": "pv_1791314168798_e9qi0i7",
+      "pageViewId": "pv_1791314168798_e9qi0i7",
+      "visitorId": "vid_1791046096438_tzjrdu4",
+      "sessionId": "sess_1791314168798_suchiro",
+      "path": "/",
+      "referrer": "Direct",
+      "device": "Desktop",
+      "browser": "Chrome",
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "duration": 1,
+      "isNewVisitor": true,
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T19:16:08.904Z",
+      "_id": "6ac54bc439ce8a56db90a3a4"
+    },
+    {
+      "id": "pv_1791314168870_f5lm12r",
+      "pageViewId": "pv_1791314168870_f5lm12r",
+      "visitorId": "vid_1791046096438_tzjrdu4",
+      "sessionId": "sess_1791314168798_suchiro",
+      "path": "/",
+      "referrer": "Direct",
+      "device": "Desktop",
+      "browser": "Chrome",
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "duration": 13,
+      "isNewVisitor": false,
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T19:16:09.123Z",
+      "_id": "6ac54bc439ce8a56db90a3a5"
+    },
+    {
+      "id": "pv_1791314181962_dz8z0w8",
+      "pageViewId": "pv_1791314181962_dz8z0w8",
+      "visitorId": "vid_1791046096438_tzjrdu4",
+      "sessionId": "sess_1791314168798_suchiro",
+      "path": "/contact",
+      "referrer": "Direct",
+      "device": "Desktop",
+      "browser": "Chrome",
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "duration": 4,
+      "isNewVisitor": false,
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T19:16:22.017Z",
+      "_id": "6ac54bc439ce8a56db90a3a6"
+    },
+    {
+      "id": "pv_1791314186122_ezpnq17",
+      "pageViewId": "pv_1791314186122_ezpnq17",
+      "visitorId": "vid_1791046096438_tzjrdu4",
+      "sessionId": "sess_1791314168798_suchiro",
+      "path": "/blogs",
+      "referrer": "Direct",
+      "device": "Desktop",
+      "browser": "Chrome",
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "duration": 4,
+      "isNewVisitor": false,
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T19:16:26.154Z",
+      "_id": "6ac54bc439ce8a56db90a3a7"
+    },
+    {
+      "id": "pv_1791314189652_2y8vlf0",
+      "pageViewId": "pv_1791314189652_2y8vlf0",
+      "visitorId": "vid_1791046096438_tzjrdu4",
+      "sessionId": "sess_1791314168798_suchiro",
+      "path": "/services",
+      "referrer": "Direct",
+      "device": "Desktop",
+      "browser": "Chrome",
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "duration": 60,
+      "isNewVisitor": false,
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T19:16:29.736Z",
+      "_id": "6ac54bc439ce8a56db90a3a8"
+    },
+    {
+      "id": "pv_1791314249482_l296sqi",
+      "pageViewId": "pv_1791314249482_l296sqi",
+      "visitorId": "vid_1791046096438_tzjrdu4",
+      "sessionId": "sess_1791314168798_suchiro",
+      "path": "/contact",
+      "referrer": "Direct",
+      "device": "Desktop",
+      "browser": "Chrome",
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "duration": 641,
+      "isNewVisitor": false,
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T19:17:29.493Z",
+      "_id": "6ac54bc439ce8a56db90a3a9"
+    },
+    {
+      "id": "pv_1791314892938_moaukxa",
+      "pageViewId": "pv_1791314892938_moaukxa",
+      "visitorId": "vid_1791046096438_tzjrdu4",
+      "sessionId": "sess_1791314168798_suchiro",
+      "path": "/contact",
+      "referrer": "Internal",
+      "device": "Desktop",
+      "browser": "Chrome",
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "duration": 1,
+      "isNewVisitor": false,
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T19:28:12.949Z",
+      "_id": "6ac54bce39ce8a56db90a3f5"
+    },
+    {
+      "id": "pv_1791314892971_nbjfq64",
+      "pageViewId": "pv_1791314892971_nbjfq64",
+      "visitorId": "vid_1791046096438_tzjrdu4",
+      "sessionId": "sess_1791314168798_suchiro",
+      "path": "/contact",
+      "referrer": "Internal",
+      "device": "Desktop",
+      "browser": "Chrome",
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "duration": 432,
+      "isNewVisitor": false,
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T19:28:12.971Z",
+      "_id": "6ac54bce39ce8a56db90a3f6"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "aud_1791315234144_750",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "MESSAGE_REPLIED",
+      "module": "Messages",
+      "recordId": "msg_1791314905849",
+      "details": "Sent reply to \"Sahin Miah\" <sahinmiah1204@gmail.com>: \"abd...\"",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T19:33:54.145Z",
+      "_id": "6ac54d2339ce8a56db90a3fd"
+    },
+    {
+      "id": "aud_1791315109963_587",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "ADMIN_LOGIN",
+      "module": "Auth",
+      "recordId": "adm_sahin_02",
+      "details": "Admin logged in successfully via OTP (sahinmiah1204@gmail.com)",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T19:31:49.963Z",
+      "_id": "6ac54ca739ce8a56db90a3fc"
+    },
+    {
+      "id": "aud_1791315063076_119",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "ADMIN_LOGOUT",
+      "module": "Auth",
+      "recordId": "adm_sahin_02",
+      "details": "Admin signed out (sahinmiah1204@gmail.com)",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T19:31:03.076Z",
+      "_id": "6ac54c7939ce8a56db90a3fa"
+    },
+    {
+      "id": "aud_1791314943986_474",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "MESSAGE_REPLIED",
+      "module": "Messages",
+      "recordId": "msg_1791314905849",
+      "details": "Sent reply to \"Sahin Miah\" <sahinmiah1204@gmail.com>: \"sdsdsd...\"",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T19:29:03.986Z",
+      "_id": "6ac54c0239ce8a56db90a3f8"
+    },
+    {
+      "id": "aud_1791314769286_645",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "SMTP_SETTINGS_UPDATED",
+      "module": "Settings",
+      "recordId": "smtp",
+      "details": "Updated SMTP server configuration (smtp.gmail.com:465)",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T19:26:09.286Z",
+      "_id": "6ac54bc439ce8a56db90a3aa"
+    },
+    {
+      "id": "aud_1791314596198_899",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "SMTP_TEST_DISPATCHED",
+      "module": "Settings",
+      "recordId": "smtp",
+      "details": "Dispatched test email to \"sahinfdr89@gmail.com\". Result: Failed - Could not send test email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials a92af1059eb24-1616aa55195sm740321c88.19 - gsmtp",
+      "status": "failure",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T19:23:16.198Z",
+      "_id": "6ac54bc439ce8a56db90a3ab"
+    },
+    {
+      "id": "aud_1791314516538_939",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "TESTIMONIAL_CREATED",
+      "module": "Testimonials",
+      "recordId": "test_1791314516533",
+      "details": "Added review from \"dfrerererere\"",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T19:21:56.540Z",
+      "_id": "6ac54bc439ce8a56db90a3ac"
+    },
+    {
+      "id": "aud_1791314290540_970",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "MESSAGE_REPLIED",
+      "module": "Messages",
+      "recordId": "msg_1791314277789",
+      "details": "Sent reply to \"Sahin Miah\" <sahindeveloper043@gmail.com>: \"sdsdsd...\"",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T19:18:10.540Z",
+      "_id": "6ac54bc439ce8a56db90a3ad"
+    },
+    {
+      "id": "aud_1791311292485_142",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "MESSAGE_REPLIED",
+      "module": "Messages",
+      "recordId": "msg_1791311196546",
+      "details": "Sent reply to \"dsds\" <sahin.dev1067@gmail.com>: \"love...\"",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T18:28:12.485Z",
+      "_id": "6ac54bc439ce8a56db90a3ae"
+    },
+    {
+      "id": "aud_1791311208269_249",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "MESSAGE_REPLIED",
+      "module": "Messages",
+      "recordId": "msg_1791311196546",
+      "details": "Sent reply to \"dsds\" <sahin.dev1067@gmail.com>: \"dfdfdf...\"",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T18:26:48.269Z",
+      "_id": "6ac54bc439ce8a56db90a3af"
+    },
+    {
+      "id": "aud_1791311085006_299",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "MESSAGE_REPLIED",
+      "module": "Messages",
+      "recordId": "msg_1791310306397",
+      "details": "Sent reply to \"Sahin Dev\" <sahindeveloper034@gmail.com>: \"hijjff...\"",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T18:24:45.006Z",
+      "_id": "6ac54bc439ce8a56db90a3b0"
+    },
+    {
+      "id": "aud_1791310993081_38",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "MESSAGE_REPLIED",
+      "module": "Messages",
+      "recordId": "msg_1791310306397",
+      "details": "Sent reply to \"Sahin Dev\" <sahindeveloper034@gmail.com>: \"hijjff...\"",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T18:23:13.081Z",
+      "_id": "6ac54bc439ce8a56db90a3b1"
+    },
+    {
+      "id": "aud_1791310769842_340",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "ADMIN_LOGIN",
+      "module": "Auth",
+      "recordId": "adm_sahin_02",
+      "details": "Admin logged in successfully via OTP (sahinmiah1204@gmail.com)",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T18:19:29.842Z",
+      "_id": "6ac54bc439ce8a56db90a3b2"
+    },
+    {
+      "id": "aud_1791310370455_306",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "ADMIN_LOGOUT",
+      "module": "Auth",
+      "recordId": "adm_sahin_02",
+      "details": "Admin signed out (sahinmiah1204@gmail.com)",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T18:12:50.455Z",
+      "_id": "6ac54bc439ce8a56db90a3b3"
+    },
+    {
+      "id": "aud_1791310334737_145",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "MESSAGE_REPLIED",
+      "module": "Messages",
+      "recordId": "msg_1791310306397",
+      "details": "Sent reply to \"Sahin Dev\" <sahindeveloper034@gmail.com>: \"hi...\"",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T18:12:14.737Z",
+      "_id": "6ac54bc439ce8a56db90a3b4"
+    },
+    {
+      "id": "aud_1791310182713_640",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "TESTIMONIAL_CREATED",
+      "module": "Testimonials",
+      "recordId": "test_1791310182333",
+      "details": "Added review from \"bbb\"",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T18:09:42.713Z",
+      "_id": "6ac54bc439ce8a56db90a3b5"
+    },
+    {
+      "id": "aud_1791309955725_96",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "MESSAGE_REPLIED",
+      "module": "Messages",
+      "recordId": "msg_1791309936160",
+      "details": "Sent reply to \"Sahin Dev\" <sahin.dev1067@gmail.com>: \"hello...\"",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T18:05:55.725Z",
+      "_id": "6ac54bc439ce8a56db90a3b6"
+    },
+    {
+      "id": "aud_1791297920100_253",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "BLOG_CREATED",
+      "module": "Blogs",
+      "recordId": "blog_1791297920094",
+      "details": "Created article \"dfdfd\"",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T14:45:20.100Z",
+      "_id": "6ac54bc439ce8a56db90a3b7"
+    },
+    {
+      "id": "aud_1791297641363_316",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "SERVICE_UPDATED",
+      "module": "Services",
+      "recordId": "srv_01",
+      "details": "Updated service \"Web & App Development\"",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T14:40:41.363Z",
+      "_id": "6ac54bc439ce8a56db90a3b8"
+    },
+    {
+      "id": "aud_1791297565270_878",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "SERVICE_CREATED",
+      "module": "Services",
+      "recordId": "srv_1791297565260",
+      "details": "Created service \"aaa\"",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T14:39:25.270Z",
+      "_id": "6ac54bc439ce8a56db90a3b9"
+    },
+    {
+      "id": "aud_1791297423064_185",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "PROJECT_CREATED",
+      "module": "Projects",
+      "recordId": "proj_1791297423058",
+      "details": "Created project \"dsdsd\"",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T14:37:03.064Z",
+      "_id": "6ac54bc439ce8a56db90a3ba"
+    },
+    {
+      "id": "aud_1791297307619_973",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "TESTIMONIAL_CREATED",
+      "module": "Testimonials",
+      "recordId": "test_1791297307610",
+      "details": "Added review from \"sahin\"",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T14:35:07.619Z",
+      "_id": "6ac54bc439ce8a56db90a3bb"
+    },
+    {
+      "id": "aud_1791297184915_957",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "MESSAGE_REPLIED",
+      "module": "Messages",
+      "recordId": "msg_1791297153550",
+      "details": "Sent reply to \"Sahin Miah\" <sahinfdr89@gmail.com>: \"hwllo...\"",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T14:33:04.915Z",
+      "_id": "6ac54bc439ce8a56db90a3bc"
+    },
+    {
+      "id": "aud_1791296724747_826",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "ADMIN_LOGIN",
+      "module": "Auth",
+      "recordId": "adm_sahin_02",
+      "details": "Admin logged in successfully via OTP (sahinmiah1204@gmail.com)",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T14:25:24.747Z",
+      "_id": "6ac54bc439ce8a56db90a3bd"
+    },
+    {
+      "id": "aud_1791277496852_638",
+      "adminId": "adm_sahin_01",
+      "adminEmail": "sahinfdr89@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "ADMIN_LOGIN",
+      "module": "Auth",
+      "recordId": "adm_sahin_01",
+      "details": "Admin logged in successfully via OTP (sahinfdr89@gmail.com)",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-06T09:04:56.852Z",
+      "_id": "6ac54bc439ce8a56db90a3be"
+    },
+    {
+      "id": "aud_1791202057997_377",
+      "adminId": "adm_sahin_01",
+      "adminEmail": "sahinfdr89@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "SMTP_TEST_DISPATCHED",
+      "module": "Settings",
+      "recordId": "smtp",
+      "details": "Dispatched test email to \"sahindeveloper043@gmail.com\". Result: Success",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-05T12:07:37.997Z",
+      "_id": "6ac54bc439ce8a56db90a3bf"
+    },
+    {
+      "id": "aud_1791201869964_205",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "ADMIN_VERIFICATION_RESENT",
+      "module": "Admins",
+      "recordId": "adm_1791201445573",
+      "details": "Resent 1-click verification email to sahindeveloper043@gmail.com",
+      "status": "success",
+      "ip": "103.157.95.63, 169.254.169.126",
+      "timestamp": "2026-10-05T12:04:29.964Z",
+      "_id": "6ac54bc439ce8a56db90a3c0"
+    },
+    {
+      "id": "aud_1791201839530_86",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "ADMIN_VERIFICATION_RESENT",
+      "module": "Admins",
+      "recordId": "adm_1791201445573",
+      "details": "Resent 1-click verification email to sahindeveloper043@gmail.com",
+      "status": "success",
+      "ip": "103.157.95.63, 169.254.169.126",
+      "timestamp": "2026-10-05T12:03:59.530Z",
+      "_id": "6ac54bc439ce8a56db90a3c1"
+    },
+    {
+      "id": "aud_1791201830163_374",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "ADMIN_UPDATED",
+      "module": "Admins",
+      "recordId": "adm_1791201445573",
+      "details": "Updated administrator permissions for \"SAhin\"",
+      "status": "success",
+      "ip": "103.157.95.63, 169.254.169.126",
+      "timestamp": "2026-10-05T12:03:50.163Z",
+      "_id": "6ac54bc439ce8a56db90a3c2"
+    },
+    {
+      "id": "aud_1791201591991_580",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "ADMIN_LOGIN",
+      "module": "Auth",
+      "recordId": "adm_sahin_02",
+      "details": "Admin logged in successfully via OTP (sahinmiah1204@gmail.com)",
+      "status": "success",
+      "ip": "103.157.95.63, 169.254.169.126",
+      "timestamp": "2026-10-05T11:59:51.991Z",
+      "_id": "6ac54bc439ce8a56db90a3c3"
+    },
+    {
+      "id": "aud_1791201489852_121",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "ADMIN_LOGOUT",
+      "module": "Auth",
+      "recordId": "adm_sahin_02",
+      "details": "Admin signed out (sahinmiah1204@gmail.com)",
+      "status": "success",
+      "ip": "103.157.95.63, 169.254.169.126",
+      "timestamp": "2026-10-05T11:58:09.852Z",
+      "_id": "6ac54bc439ce8a56db90a3c4"
+    },
+    {
+      "id": "aud_1791201448277_364",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "ADMIN_CREATED",
+      "module": "Admins",
+      "recordId": "adm_1791201445573",
+      "details": "Created admin \"SAhin\" (sahindeveloper043@gmail.com)",
+      "status": "success",
+      "ip": "103.157.95.63, 169.254.169.126",
+      "timestamp": "2026-10-05T11:57:28.277Z",
+      "_id": "6ac54bc439ce8a56db90a3c5"
+    },
+    {
+      "id": "aud_1791201264046_548",
+      "adminId": "adm_sahin_02",
+      "adminEmail": "sahinmiah1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "ADMIN_LOGIN",
+      "module": "Auth",
+      "recordId": "adm_sahin_02",
+      "details": "Admin logged in successfully via OTP (sahinmiah1204@gmail.com)",
+      "status": "success",
+      "ip": "103.157.95.63, 169.254.169.126",
+      "timestamp": "2026-10-05T11:54:24.046Z",
+      "_id": "6ac54bc439ce8a56db90a3c6"
+    },
+    {
+      "id": "aud_1791201219865_720",
+      "adminId": "system",
+      "adminEmail": "system",
+      "adminName": "System",
+      "action": "PASSWORD_RESET_SUCCESS",
+      "module": "Auth",
+      "recordId": "adm_sahin_02",
+      "details": "Password was reset using OTP for sahinmiah1204@gmail.com",
+      "status": "success",
+      "ip": "103.157.95.63, 169.254.169.126",
+      "timestamp": "2026-10-05T11:53:39.865Z",
+      "_id": "6ac54bc439ce8a56db90a3c7"
+    },
+    {
+      "id": "aud_1791201141572_60",
+      "adminId": "system",
+      "adminEmail": "system",
+      "adminName": "System",
+      "action": "PASSWORD_RESET_REQUESTED",
+      "module": "Auth",
+      "recordId": "adm_sahin_02",
+      "details": "Password reset OTP generated for sahinmiah1204@gmail.com",
+      "status": "success",
+      "ip": "103.157.95.63, 169.254.169.126",
+      "timestamp": "2026-10-05T11:52:21.572Z",
+      "_id": "6ac54bc439ce8a56db90a3c8"
+    },
+    {
+      "id": "aud_1791200289621_23",
+      "adminId": "system",
+      "adminEmail": "system",
+      "adminName": "System",
+      "action": "EMAIL_VERIFIED_1CLICK",
+      "module": "Auth",
+      "recordId": "adm_1791200267450",
+      "details": "1-Click verification for rakib.test.admin@gmail.com",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-05T11:38:09.621Z",
+      "_id": "6ac54bc439ce8a56db90a3c9"
+    },
+    {
+      "id": "aud_1791200270363_775",
+      "adminId": "adm_sahin_01",
+      "adminEmail": "sahinfdr89@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "ADMIN_CREATED",
+      "module": "Admins",
+      "recordId": "adm_1791200267450",
+      "details": "Created admin \"Rakib Hassan\" (rakib.test.admin@gmail.com)",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-05T11:37:50.363Z",
+      "_id": "6ac54bc439ce8a56db90a3ca"
+    },
+    {
+      "id": "aud_1791200259813_743",
+      "adminId": "adm_sahin_01",
+      "adminEmail": "sahinfdr89@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "ADMIN_LOGIN",
+      "module": "Auth",
+      "recordId": "adm_sahin_01",
+      "details": "Admin logged in successfully via OTP (sahinfdr89@gmail.com)",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-05T11:37:39.813Z",
+      "_id": "6ac54bc439ce8a56db90a3cb"
+    },
+    {
+      "id": "aud_1791200196886_196",
+      "adminId": "adm_sahin_01",
+      "adminEmail": "sahinfdr89@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "ADMIN_LOGIN",
+      "module": "Auth",
+      "recordId": "adm_sahin_01",
+      "details": "Admin logged in successfully via OTP (sahinfdr89@gmail.com)",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-05T11:36:36.886Z",
+      "_id": "6ac54bc439ce8a56db90a3cc"
+    },
+    {
+      "id": "aud_1791105800490_984",
+      "adminId": "adm_sahin_01",
+      "adminEmail": "sahinfdr89@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "ADMIN_LOGIN",
+      "module": "Auth",
+      "recordId": "adm_sahin_01",
+      "details": "Admin logged in successfully via OTP (sahinfdr89@gmail.com)",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-04T09:23:20.490Z",
+      "_id": "6ac54bc439ce8a56db90a3cd"
+    },
+    {
+      "id": "aud_1790927452262",
+      "adminId": "public_visitor",
+      "adminEmail": "visitor@regardstech.com",
+      "adminName": "Frontend Client/Visitor",
+      "action": "SUBMIT_TESTIMONIAL",
+      "module": "testimonials",
+      "recordId": "tst_1790927452262_qnm9",
+      "details": "Frontend submission: New testimonial added by Marcus Vance (Vance Tech Global) with 5 stars",
+      "timestamp": "2026-10-02T07:50:52.262Z",
+      "_id": "6ac54bc439ce8a56db90a3ce"
+    },
+    {
+      "id": "aud_1790842323844_802",
+      "adminId": "system",
+      "adminEmail": "system",
+      "adminName": "System",
+      "action": "PASSWORD_RESET_SUCCESS",
+      "module": "Auth",
+      "recordId": "adm_sahin_01",
+      "details": "Password was reset using OTP for sahin1204@gmail.com",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-01T08:12:03.844Z",
+      "_id": "6ac54bc439ce8a56db90a3cf"
+    },
+    {
+      "id": "aud_1790842316824_671",
+      "adminId": "system",
+      "adminEmail": "system",
+      "adminName": "System",
+      "action": "PASSWORD_RESET_REQUESTED",
+      "module": "Auth",
+      "recordId": "adm_sahin_01",
+      "details": "Password reset OTP generated for sahin1204@gmail.com",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-01T08:11:56.824Z",
+      "_id": "6ac54bc439ce8a56db90a3d0"
+    },
+    {
+      "id": "aud_1790842310995_952",
+      "adminId": "adm_sahin_01",
+      "adminEmail": "sahin1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "ADMIN_LOGIN",
+      "module": "Auth",
+      "recordId": "adm_sahin_01",
+      "details": "Admin logged in successfully via OTP (sahin1204@gmail.com)",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-01T08:11:50.995Z",
+      "_id": "6ac54bc439ce8a56db90a3d1"
+    },
+    {
+      "id": "aud_1790842243482_81",
+      "adminId": "adm_sahin_01",
+      "adminEmail": "sahin1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "ADMIN_LOGIN",
+      "module": "Auth",
+      "recordId": "adm_sahin_01",
+      "details": "Admin logged in successfully (sahin1204@gmail.com)",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-01T08:10:43.482Z",
+      "_id": "6ac54bc439ce8a56db90a3d2"
+    },
+    {
+      "id": "aud_1790841025436_623",
+      "adminId": "adm_sahin_01",
+      "adminEmail": "sahin1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "ADMIN_LOGIN",
+      "module": "Auth",
+      "recordId": "adm_sahin_01",
+      "details": "Admin logged in successfully (sahin1204@gmail.com)",
+      "status": "success",
+      "ip": "103.157.94.63, 169.254.169.126",
+      "timestamp": "2026-10-01T07:50:25.436Z",
+      "_id": "6ac54bc439ce8a56db90a3d3"
+    },
+    {
+      "id": "aud_1790840810437_762",
+      "adminId": "system",
+      "adminEmail": "system",
+      "adminName": "System",
+      "action": "PASSWORD_RESET_REQUESTED",
+      "module": "Auth",
+      "recordId": "adm_sahin_01",
+      "details": "Password reset OTP generated for sahin1204@gmail.com",
+      "status": "success",
+      "ip": "103.157.94.63, 169.254.169.126",
+      "timestamp": "2026-10-01T07:46:50.437Z",
+      "_id": "6ac54bc539ce8a56db90a3d4"
+    },
+    {
+      "id": "aud_1790840805053_269",
+      "adminId": "adm_sahin_01",
+      "adminEmail": "sahin1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "ADMIN_LOGOUT",
+      "module": "Auth",
+      "recordId": "adm_sahin_01",
+      "details": "Admin signed out (sahin1204@gmail.com)",
+      "status": "success",
+      "ip": "103.157.94.63, 169.254.169.126",
+      "timestamp": "2026-10-01T07:46:45.053Z",
+      "_id": "6ac54bc539ce8a56db90a3d5"
+    },
+    {
+      "id": "aud_1790840655283_799",
+      "adminId": "adm_sahin_01",
+      "adminEmail": "sahin1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "ADMIN_LOGIN",
+      "module": "Auth",
+      "recordId": "adm_sahin_01",
+      "details": "Admin logged in successfully (sahin1204@gmail.com)",
+      "status": "success",
+      "ip": "103.157.94.63, 169.254.169.126",
+      "timestamp": "2026-10-01T07:44:15.283Z",
+      "_id": "6ac54bc539ce8a56db90a3d6"
+    },
+    {
+      "id": "aud_1790784703390_511",
+      "adminId": "system",
+      "adminEmail": "system",
+      "adminName": "System",
+      "action": "PASSWORD_RESET_SUCCESS",
+      "module": "Auth",
+      "recordId": "adm_sahin_01",
+      "details": "Password was reset using OTP for sahin1204@gmail.com",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-09-30T16:11:43.390Z",
+      "_id": "6ac54bc539ce8a56db90a3d7"
+    },
+    {
+      "id": "aud_1790784689665_217",
+      "adminId": "system",
+      "adminEmail": "system",
+      "adminName": "System",
+      "action": "PASSWORD_RESET_REQUESTED",
+      "module": "Auth",
+      "recordId": "adm_sahin_01",
+      "details": "Password reset OTP generated for sahin1204@gmail.com",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-09-30T16:11:29.665Z",
+      "_id": "6ac54bc539ce8a56db90a3d8"
+    },
+    {
+      "id": "aud_1790784680916_200",
+      "adminId": "adm_sahin_01",
+      "adminEmail": "sahin1204@gmail.com",
+      "adminName": "Sahin Miah",
+      "action": "ADMIN_LOGIN",
+      "module": "Auth",
+      "recordId": "adm_sahin_01",
+      "details": "Admin logged in successfully (sahin1204@gmail.com)",
+      "status": "success",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-09-30T16:11:20.916Z",
+      "_id": "6ac54bc539ce8a56db90a3d9"
+    }
+  ],
+  "media": [
+    {
+      "id": "med_01",
+      "fileName": "regards-tech-brand-logo.png",
+      "fileUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=600&q=80",
+      "fileType": "image/png",
+      "fileSize": 42010,
+      "uploadedBy": "Super Admin",
+      "createdAt": "2026-09-05T15:42:57.885Z",
+      "_id": "6ac54bc539ce8a56db90a3da"
+    }
+  ],
+  "outbox": [
+    {
+      "id": "em_1791315229793_194",
+      "to": "sahinmiah1204@gmail.com",
+      "subject": "Re: sasa",
+      "type": "notification",
+      "content": "Hello Sahin Miah,\n\nThank you for getting in touch with Regards Tech.\n\nabd\n\nWarm regards,\nSahin Miah\nRegards Tech Client Services\nWebsite: https://regardstech.com",
+      "sentAt": "2026-10-06T19:33:49.793Z",
+      "status": "sent",
+      "_id": "6ac54d2339ce8a56db90a3fe"
+    },
+    {
+      "id": "em_1791315064897_124",
+      "to": "sahinmiah1204@gmail.com",
+      "subject": "Your Regards Tech verification code: 303665",
+      "type": "otp",
+      "tokenOrCode": "303665",
+      "content": "Hello Sahin Miah,\n\nA login attempt was initiated for your Regards Tech administrator account.\n\nYour 6-Digit Login Security OTP is:\n\n>>> 303665 <<<\n\nThis OTP is valid for 10 minutes. Enter this code on the login screen to access your admin dashboard.",
+      "sentAt": "2026-10-06T19:31:04.897Z",
+      "expiresAt": "2026-10-06T19:41:04.897Z",
+      "status": "sent",
+      "_id": "6ac54c8139ce8a56db90a3fb"
+    },
+    {
+      "id": "em_1791314939203_636",
+      "to": "sahinmiah1204@gmail.com",
+      "subject": "Re: sasa",
+      "type": "notification",
+      "content": "Hello Sahin Miah,\n\nThank you for getting in touch with Regards Tech.\n\nsdsdsd\n\nWarm regards,\nSahin Miah\nRegards Tech Client Services\nWebsite: https://regardstech.com",
+      "sentAt": "2026-10-06T19:28:59.203Z",
+      "status": "sent",
+      "_id": "6ac54c0339ce8a56db90a3f9"
+    },
+    {
+      "id": "em_1791314593901_test",
+      "to": "sahinfdr89@gmail.com",
+      "subject": "Regards Tech - SMTP Live Test Email",
+      "type": "notification",
+      "content": "Hello,\n\nThis is a confirmation test email dispatched from your Regards Tech Admin Panel.\nYour SMTP settings are working properly!\nDispatched at: 2026-10-06T19:23:13.896Z",
+      "sentAt": "2026-10-06T19:23:13.901Z",
+      "status": "failed",
+      "deliveryError": "Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials a92af1059eb24-1616aa55195sm740321c88.19 - gsmtp",
+      "_id": "6ac54bc539ce8a56db90a3db"
+    },
+    {
+      "id": "em_1791314288392_46",
+      "to": "sahindeveloper043@gmail.com",
+      "subject": "Re: sdsd",
+      "type": "notification",
+      "content": "Hello Sahin Miah,\n\nThank you for getting in touch with Regards Tech.\n\nsdsdsd\n\nWarm regards,\nSahin Miah\nRegards Tech Client Services\nWebsite: https://regardstech.com",
+      "sentAt": "2026-10-06T19:18:08.392Z",
+      "status": "outbox_only",
+      "deliveryError": "Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-3515b01ea9csm561218eec.27 - gsmtp",
+      "_id": "6ac54bc539ce8a56db90a3dc"
+    },
+    {
+      "id": "em_1791311290674_616",
+      "to": "sahin.dev1067@gmail.com",
+      "subject": "Re: dsd",
+      "type": "notification",
+      "content": "Hello dsds,\n\nThank you for getting in touch with Regards Tech.\n\nlove\n\nWarm regards,\nSahin Miah\nRegards Tech Client Services\nWebsite: https://regardstech.com",
+      "sentAt": "2026-10-06T18:28:10.674Z",
+      "status": "outbox_only",
+      "deliveryError": "Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-3515af97c6esm312997eec.20 - gsmtp",
+      "_id": "6ac54bc539ce8a56db90a3dd"
+    },
+    {
+      "id": "em_1791311205699_592",
+      "to": "sahin.dev1067@gmail.com",
+      "subject": "Re: dsd",
+      "type": "notification",
+      "content": "Hello dsds,\n\nThank you for getting in touch with Regards Tech.\n\ndfdfdf\n\nWarm regards,\nSahin Miah\nRegards Tech Client Services\nWebsite: https://regardstech.com",
+      "sentAt": "2026-10-06T18:26:45.699Z",
+      "status": "outbox_only",
+      "deliveryError": "Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials a92af1059eb24-1616aa55195sm449107c88.19 - gsmtp",
+      "_id": "6ac54bc539ce8a56db90a3de"
+    },
+    {
+      "id": "em_1791311079753_698",
+      "to": "sahindeveloper034@gmail.com",
+      "subject": "Re: app",
+      "type": "notification",
+      "content": "Hello Sahin Dev,\n\nThank you for getting in touch with Regards Tech.\n\nhijjff\n\nWarm regards,\nSahin Miah\nRegards Tech Client Services\nWebsite: https://regardstech.com",
+      "sentAt": "2026-10-06T18:24:39.753Z",
+      "status": "sent",
+      "_id": "6ac54bc539ce8a56db90a3df"
+    },
+    {
+      "id": "em_1791310989140_154",
+      "to": "sahindeveloper034@gmail.com",
+      "subject": "Re: app",
+      "type": "notification",
+      "content": "Hello Sahin Dev,\n\nThank you for getting in touch with Regards Tech.\n\nhijjff\n\nWarm regards,\nSahin Miah\nRegards Tech Client Services\nWebsite: https://regardstech.com",
+      "sentAt": "2026-10-06T18:23:09.142Z",
+      "status": "sent",
+      "_id": "6ac54bc539ce8a56db90a3e0"
+    },
+    {
+      "id": "em_1791310747973_926",
+      "to": "sahinmiah1204@gmail.com",
+      "subject": "Your Regards Tech verification code: 217450",
+      "type": "otp",
+      "tokenOrCode": "217450",
+      "content": "Hello Sahin Miah,\n\nA login attempt was initiated for your Regards Tech administrator account.\n\nYour 6-Digit Login Security OTP is:\n\n>>> 217450 <<<\n\nThis OTP is valid for 10 minutes. Enter this code on the login screen to access your admin dashboard.",
+      "sentAt": "2026-10-06T18:19:07.973Z",
+      "expiresAt": "2026-10-06T18:29:07.972Z",
+      "status": "sent",
+      "_id": "6ac54bc539ce8a56db90a3e1"
+    },
+    {
+      "id": "em_1791310719873_677",
+      "to": "sahinmiah1204@gmail.com",
+      "subject": "Your Regards Tech verification code: 313384",
+      "type": "otp",
+      "tokenOrCode": "313384",
+      "content": "Hello Sahin Miah,\n\nA login attempt was initiated for your Regards Tech administrator account.\n\nYour 6-Digit Login Security OTP is:\n\n>>> 313384 <<<\n\nThis OTP is valid for 10 minutes. Enter this code on the login screen to access your admin dashboard.",
+      "sentAt": "2026-10-06T18:18:39.873Z",
+      "expiresAt": "2026-10-06T18:28:39.873Z",
+      "status": "sent",
+      "_id": "6ac54bc539ce8a56db90a3e2"
+    },
+    {
+      "id": "em_1791310376423_754",
+      "to": "sahinmiah1204@gmail.com",
+      "subject": "Your Regards Tech verification code: 170463",
+      "type": "otp",
+      "tokenOrCode": "170463",
+      "content": "Hello Sahin Miah,\n\nA login attempt was initiated for your Regards Tech administrator account.\n\nYour 6-Digit Login Security OTP is:\n\n>>> 170463 <<<\n\nThis OTP is valid for 10 minutes. Enter this code on the login screen to access your admin dashboard.",
+      "sentAt": "2026-10-06T18:12:56.423Z",
+      "expiresAt": "2026-10-06T18:22:56.423Z",
+      "status": "sent",
+      "_id": "6ac54bc539ce8a56db90a3e3"
+    },
+    {
+      "id": "em_1791310330291_256",
+      "to": "sahindeveloper034@gmail.com",
+      "subject": "Re: app",
+      "type": "notification",
+      "content": "Hello Sahin Dev,\n\nThank you for getting in touch with Regards Tech.\n\nhi\n\nWarm regards,\nSahin Miah\nRegards Tech Client Services\nWebsite: https://regardstech.com",
+      "sentAt": "2026-10-06T18:12:10.291Z",
+      "status": "sent",
+      "_id": "6ac54bc539ce8a56db90a3e4"
+    },
+    {
+      "id": "em_1791309953152_333",
+      "to": "sahin.dev1067@gmail.com",
+      "subject": "Re: app",
+      "type": "notification",
+      "content": "Hello Sahin Dev,\n\nThank you for getting in touch with Regards Tech.\n\nhello\n\nWarm regards,\nSahin Miah\nRegards Tech Client Services\nWebsite: https://regardstech.com",
+      "sentAt": "2026-10-06T18:05:53.152Z",
+      "status": "outbox_only",
+      "deliveryError": "Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-3515b02d552sm336965eec.28 - gsmtp",
+      "_id": "6ac54bc539ce8a56db90a3e5"
+    },
+    {
+      "id": "em_1791297180357_753",
+      "to": "sahinfdr89@gmail.com",
+      "subject": "Re: app",
+      "type": "notification",
+      "content": "Hello Sahin Miah,\n\nThank you for getting in touch with Regards Tech.\n\nhwllo\n\nWarm regards,\nSahin Miah\nRegards Tech Client Services\nWebsite: https://regardstech.com",
+      "sentAt": "2026-10-06T14:33:00.357Z",
+      "status": "sent",
+      "_id": "6ac54bc539ce8a56db90a3e6"
+    },
+    {
+      "id": "em_1791296688800_523",
+      "to": "sahinmiah1204@gmail.com",
+      "subject": "Your Regards Tech verification code: 892177",
+      "type": "otp",
+      "tokenOrCode": "892177",
+      "content": "Hello Sahin Miah,\n\nA login attempt was initiated for your Regards Tech administrator account.\n\nYour 6-Digit Login Security OTP is:\n\n>>> 892177 <<<\n\nThis OTP is valid for 10 minutes. Enter this code on the login screen to access your admin dashboard.",
+      "sentAt": "2026-10-06T14:24:48.800Z",
+      "expiresAt": "2026-10-06T14:34:48.800Z",
+      "status": "sent",
+      "_id": "6ac54bc539ce8a56db90a3e7"
+    },
+    {
+      "id": "em_1791277474201_229",
+      "to": "sahinfdr89@gmail.com",
+      "subject": "Your Regards Tech verification code: 163639",
+      "type": "otp",
+      "tokenOrCode": "163639",
+      "content": "Hello Sahin Miah,\n\nA login attempt was initiated for your Regards Tech administrator account.\n\nYour 6-Digit Login Security OTP is:\n\n>>> 163639 <<<\n\nThis OTP is valid for 10 minutes. Enter this code on the login screen to access your admin dashboard.",
+      "sentAt": "2026-10-06T09:04:34.201Z",
+      "expiresAt": "2026-10-06T09:14:34.201Z",
+      "status": "sent",
+      "_id": "6ac54bc539ce8a56db90a3e8"
+    },
+    {
+      "id": "em_1791202055003_test",
+      "to": "sahindeveloper043@gmail.com",
+      "subject": "Regards Tech - SMTP Live Test Email",
+      "type": "notification",
+      "content": "Hello,\n\nThis is a confirmation test email dispatched from your Regards Tech Admin Panel.\nYour SMTP settings are working properly!\nDispatched at: 2026-10-05T12:07:35.003Z",
+      "sentAt": "2026-10-05T12:07:35.003Z",
+      "status": "sent",
+      "_id": "6ac54bc539ce8a56db90a3e9"
+    },
+    {
+      "id": "em_1791201865296_693",
+      "to": "sahindeveloper043@gmail.com",
+      "subject": "Verify your Regards Tech administrator account",
+      "type": "verification",
+      "tokenOrCode": "bf8157f3edfcdd6992acfb9bc7a5fa395f6655700506e9abc3d78b6c3f738579",
+      "content": "Hello SAhin,\n\nA Regards Tech administrator account has been created for your email by the Super Administrator.\n\nPlease verify your email and activate your account by clicking the link below:\n\nhttp://localhost:3000/api/auth/verify-link?token=bf8157f3edfcdd6992acfb9bc7a5fa395f6655700506e9abc3d78b6c3f738579\n\nThis verification link is valid for 24 hours. Once verified, you can immediately sign in to your administrator dashboard.\n\nWarm regards,\nRegards Tech Administration",
+      "sentAt": "2026-10-05T12:04:25.296Z",
+      "expiresAt": "2026-10-06T12:04:25.296Z",
+      "status": "sent",
+      "_id": "6ac54bc539ce8a56db90a3ea"
+    },
+    {
+      "id": "em_1791201836166_354",
+      "to": "sahindeveloper043@gmail.com",
+      "subject": "Verify your Regards Tech administrator account",
+      "type": "verification",
+      "tokenOrCode": "739456802cc392218d0e69562f2410aceeb89dcfacafbb1091bf317d721b624e",
+      "content": "Hello SAhin,\n\nA Regards Tech administrator account has been created for your email by the Super Administrator.\n\nPlease verify your email and activate your account by clicking the link below:\n\nhttp://localhost:3000/api/auth/verify-link?token=739456802cc392218d0e69562f2410aceeb89dcfacafbb1091bf317d721b624e\n\nThis verification link is valid for 24 hours. Once verified, you can immediately sign in to your administrator dashboard.\n\nWarm regards,\nRegards Tech Administration",
+      "sentAt": "2026-10-05T12:03:56.166Z",
+      "expiresAt": "2026-10-06T12:03:56.166Z",
+      "status": "sent",
+      "_id": "6ac54bc539ce8a56db90a3eb"
+    },
+    {
+      "id": "em_1791201570977_38",
+      "to": "sahinmiah1204@gmail.com",
+      "subject": "Your Regards Tech verification code: 625164",
+      "type": "otp",
+      "tokenOrCode": "625164",
+      "content": "Hello Sahin Miah,\n\nA login attempt was initiated for your Regards Tech administrator account.\n\nYour 6-Digit Login Security OTP is:\n\n>>> 625164 <<<\n\nThis OTP is valid for 10 minutes. Enter this code on the login screen to access your admin dashboard.",
+      "sentAt": "2026-10-05T11:59:30.977Z",
+      "expiresAt": "2026-10-05T12:09:30.976Z",
+      "status": "sent",
+      "_id": "6ac54bc539ce8a56db90a3ec"
+    },
+    {
+      "id": "em_1791201515178_396",
+      "to": "sahindeveloper043@gmail.com",
+      "subject": "Verify your Regards Tech administrator account",
+      "type": "verification",
+      "tokenOrCode": "81d1c35ac5a73ebd1c18bbf87da617af99e869d8319757c9b2e11d42fa5bca90",
+      "content": "Hello SAhin,\n\nA Regards Tech administrator account has been created for your email by the Super Administrator.\n\nPlease verify your email and activate your account by clicking the link below:\n\nhttp://localhost:3000/api/auth/verify-link?token=81d1c35ac5a73ebd1c18bbf87da617af99e869d8319757c9b2e11d42fa5bca90\n\nThis verification link is valid for 24 hours. Once verified, you can immediately sign in to your administrator dashboard.\n\nWarm regards,\nRegards Tech Administration",
+      "sentAt": "2026-10-05T11:58:35.178Z",
+      "expiresAt": "2026-10-06T11:58:35.178Z",
+      "status": "sent",
+      "_id": "6ac54bc539ce8a56db90a3ed"
+    },
+    {
+      "id": "em_1791201445574_459",
+      "to": "sahindeveloper043@gmail.com",
+      "subject": "Verify your Regards Tech administrator account",
+      "type": "verification",
+      "tokenOrCode": "30c71ea1af2adb243af4e6e4dd2bd5c523e05b9136717384743650ef623ea4e8",
+      "content": "Hello SAhin,\n\nA Regards Tech administrator account has been created for your email by the Super Administrator.\n\nPlease verify your email and activate your account by clicking the link below:\n\nhttp://localhost:3000/api/auth/verify-link?token=30c71ea1af2adb243af4e6e4dd2bd5c523e05b9136717384743650ef623ea4e8\n\nThis verification link is valid for 24 hours. Once verified, you can immediately sign in to your administrator dashboard.\n\nWarm regards,\nRegards Tech Administration",
+      "sentAt": "2026-10-05T11:57:25.574Z",
+      "expiresAt": "2026-10-06T11:57:25.573Z",
+      "status": "sent",
+      "_id": "6ac54bc539ce8a56db90a3ee"
+    },
+    {
+      "id": "em_1791201238893_918",
+      "to": "sahinmiah1204@gmail.com",
+      "subject": "Your Regards Tech verification code: 395025",
+      "type": "otp",
+      "tokenOrCode": "395025",
+      "content": "Hello Sahin Miah,\n\nA login attempt was initiated for your Regards Tech administrator account.\n\nYour 6-Digit Login Security OTP is:\n\n>>> 395025 <<<\n\nThis OTP is valid for 10 minutes. Enter this code on the login screen to access your admin dashboard.",
+      "sentAt": "2026-10-05T11:53:58.893Z",
+      "expiresAt": "2026-10-05T12:03:58.893Z",
+      "status": "sent",
+      "_id": "6ac54bc539ce8a56db90a3ef"
+    },
+    {
+      "id": "em_1791201138514_151",
+      "to": "sahinmiah1204@gmail.com",
+      "subject": "Your Regards Tech password reset code: 459715",
+      "type": "otp",
+      "tokenOrCode": "459715",
+      "content": "Hello Sahin Miah,\n\nA password reset request was initiated for your Regards Tech administrator account.\n\nYour 6-Digit One-Time Password (OTP) is:\n\n>>> 459715 <<<\n\nThis OTP is valid for 10 minutes. For security reasons, do not share this code with anyone. If you did not request this, please contact Super Admin immediately.",
+      "sentAt": "2026-10-05T11:52:18.514Z",
+      "expiresAt": "2026-10-05T12:02:18.514Z",
+      "status": "sent",
+      "_id": "6ac54bc539ce8a56db90a3f0"
+    },
+    {
+      "id": "em_1791200267451_36",
+      "to": "rakib.test.admin@gmail.com",
+      "subject": "Verify your Regards Tech administrator account",
+      "type": "verification",
+      "tokenOrCode": "b95c86c0e60fd9dcaa8ddc607ae5d75dc927a44965693e7c8849747a6fd71a20",
+      "content": "Hello Rakib Hassan,\n\nA Regards Tech administrator account has been created for your email by the Super Administrator.\n\nPlease verify your email and activate your account by clicking the link below:\n\nhttp://localhost:3000/api/auth/verify-link?token=b95c86c0e60fd9dcaa8ddc607ae5d75dc927a44965693e7c8849747a6fd71a20\n\nThis verification link is valid for 24 hours. Once verified, you can immediately sign in to your administrator dashboard.\n\nWarm regards,\nRegards Tech Administration",
+      "sentAt": "2026-10-05T11:37:47.451Z",
+      "expiresAt": "2026-10-06T11:37:47.451Z",
+      "status": "sent",
+      "_id": "6ac54bc539ce8a56db90a3f1"
+    },
+    {
+      "id": "em_1791200238901_286",
+      "to": "sahinfdr89@gmail.com",
+      "subject": "Your Regards Tech verification code: 259763",
+      "type": "otp",
+      "tokenOrCode": "259763",
+      "content": "Hello Sahin Miah,\n\nA login attempt was initiated for your Regards Tech administrator account.\n\nYour 6-Digit Login Security OTP is:\n\n>>> 259763 <<<\n\nThis OTP is valid for 10 minutes. Enter this code on the login screen to access your admin dashboard.",
+      "sentAt": "2026-10-05T11:37:18.901Z",
+      "expiresAt": "2026-10-05T11:47:18.901Z",
+      "status": "sent",
+      "_id": "6ac54bc539ce8a56db90a3f2"
+    },
+    {
+      "id": "em_1791200164904_852",
+      "to": "sahinfdr89@gmail.com",
+      "subject": "Your Regards Tech verification code: 447645",
+      "type": "otp",
+      "tokenOrCode": "447645",
+      "content": "Hello Sahin Miah,\n\nA login attempt was initiated for your Regards Tech administrator account.\n\nYour 6-Digit Login Security OTP is:\n\n>>> 447645 <<<\n\nThis OTP is valid for 10 minutes. Enter this code on the login screen to access your admin dashboard.",
+      "sentAt": "2026-10-05T11:36:04.904Z",
+      "expiresAt": "2026-10-05T11:46:04.904Z",
+      "status": "sent",
+      "_id": "6ac54bc539ce8a56db90a3f3"
+    },
+    {
+      "id": "em_1791105789615_897",
+      "to": "sahinfdr89@gmail.com",
+      "subject": "Regards Tech Admin - Login Security OTP Code",
+      "type": "otp",
+      "tokenOrCode": "767119",
+      "content": "Hello Sahin Miah,\n\nA login attempt was initiated for your Regards Tech administrator account.\n\nYour 6-Digit Login Security OTP is:\n\n>>> 767119 <<<\n\nThis OTP is valid for 10 minutes. Enter this code on the login screen to access your admin dashboard.",
+      "sentAt": "2026-10-04T09:23:09.615Z",
+      "expiresAt": "2026-10-04T09:33:09.615Z",
+      "status": "sent",
+      "_id": "6ac54bc539ce8a56db90a3f4"
+    }
+  ],
+  "caseStudies": [
+    {
+      "id": "cs_01",
+      "key": "regards",
+      "title": "Regards Tech",
+      "subtitle": "Agency website & brand rebuild",
+      "category": "Agency",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
+      "link": "https://regardstech.com/",
+      "tags": [
+        "Next.js",
+        "Agency",
+        "2026"
+      ],
+      "accent": "#2563EB",
+      "client": "Regards Tech Inc.",
+      "metrics": [
+        {
+          "label": "Page Speed",
+          "value": "99/100"
+        },
+        {
+          "label": "Conversion Lift",
+          "value": "+180%"
+        }
+      ],
+      "overview": "Full overhaul of the digital agency presence, featuring server-driven UI, instantaneous page transitions, and sub-50ms TTFB.",
+      "challenge": "The legacy website lacked dynamic content management and real-time visitor telemetry.",
+      "solution": "Engineered a modern Next.js architecture coupled with a dedicated Express MVC admin engine.",
+      "results": "Dramatically increased inbound lead velocity and lowered bounce rates by 64%.",
+      "status": "published",
+      "order": 1,
+      "createdAt": "2026-10-01T10:01:50.020Z",
+      "updatedAt": "2026-10-01T10:01:50.021Z",
+      "_id": "6ac54bc439ce8a56db90a393"
+    },
+    {
+      "id": "cs_02",
+      "key": "elabira",
+      "title": "Elabira",
+      "subtitle": "Multi-category D2C storefront",
+      "category": "E-Commerce",
+      "image": "https://images.unsplash.com/photo-1472851294608-062f824d29cc?auto=format&fit=crop&w=800&q=80",
+      "link": "https://elabira.com/",
+      "tags": [
+        "Next.js",
+        "E-commerce",
+        "2026"
+      ],
+      "accent": "#7A1E1E",
+      "client": "Elabira Retailers",
+      "metrics": [
+        {
+          "label": "Cart Conversion",
+          "value": "+42%"
+        },
+        {
+          "label": "Catalog Size",
+          "value": "10,000+ Items"
+        }
+      ],
+      "overview": "High-volume consumer storefront built to withstand flash sales and provide frictionless checkout.",
+      "challenge": "Complex inventory synchronization across multiple local fulfillment centers.",
+      "solution": "Implemented cached microservice APIs and instant search filtering.",
+      "results": "Generated over .2M in annual GMV with 99.98% checkout reliability.",
+      "status": "published",
+      "order": 2,
+      "createdAt": "2026-10-01T10:01:50.021Z",
+      "updatedAt": "2026-10-01T10:01:50.021Z",
+      "_id": "6ac54bc439ce8a56db90a394"
+    },
+    {
+      "id": "cs_03",
+      "key": "pdfbazar",
+      "title": "PDF Bazar",
+      "subtitle": "Academic PDF marketplace",
+      "category": "EdTech",
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=800&q=80",
+      "link": "https://pdfbazar.com/",
+      "tags": [
+        "Next.js",
+        "Vercel",
+        "2026"
+      ],
+      "accent": "#0284C7",
+      "client": "PDF Bazar Academic",
+      "metrics": [
+        {
+          "label": "Downloads",
+          "value": "250K+"
+        },
+        {
+          "label": "Search Latency",
+          "value": "<20ms"
+        }
+      ],
+      "overview": "Academic textbook and syllabus digital marketplace with instant preview and micro-transactions.",
+      "challenge": "Preventing digital piracy while ensuring smooth preview rendering across mobile phones.",
+      "solution": "Integrated DRM-secured tokenized PDF streaming and edge CDN delivery.",
+      "results": "Over 50,000 active students monthly.",
+      "status": "published",
+      "order": 3,
+      "createdAt": "2026-10-01T10:01:50.021Z",
+      "updatedAt": "2026-10-01T10:01:50.021Z",
+      "_id": "6ac54bc439ce8a56db90a395"
+    },
+    {
+      "id": "cs_04",
+      "key": "doctorinfo",
+      "title": "DoctorInfoBD",
+      "subtitle": "Doctor appointment platform",
+      "category": "Healthcare",
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=800&q=80",
+      "link": "https://doctorinfobd.com/",
+      "tags": [
+        "Laravel",
+        "Healthcare",
+        "2026"
+      ],
+      "accent": "#0D9488",
+      "client": "HealthTech BD",
+      "metrics": [
+        {
+          "label": "Verified Doctors",
+          "value": "1,500+"
+        },
+        {
+          "label": "Monthly Bookings",
+          "value": "18,000+"
+        }
+      ],
+      "overview": "Healthcare directory and automated doctor appointment scheduling system for clinics.",
+      "challenge": "SMS OTP verification reliability in rural mobile network conditions.",
+      "solution": "Dual-gateway fallback with automated appointment reminder calls.",
+      "results": "Reduced patient no-show rate by 72%.",
+      "status": "published",
+      "order": 4,
+      "createdAt": "2026-10-01T10:01:50.021Z",
+      "updatedAt": "2026-10-01T10:01:50.021Z",
+      "_id": "6ac54bc439ce8a56db90a396"
+    },
+    {
+      "id": "cs_05",
+      "key": "multitax",
+      "title": "Multi Tax Solution",
+      "subtitle": "VAT · Customs · Income Tax advisory",
+      "category": "Consultancy",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=800&q=80",
+      "link": "https://multitaxsolutionbd.com/",
+      "tags": [
+        "Laravel",
+        "Consultancy",
+        "2026"
+      ],
+      "accent": "#D97706",
+      "client": "Multi Tax Advisory",
+      "metrics": [
+        {
+          "label": "Corporate Clients",
+          "value": "350+"
+        },
+        {
+          "label": "Filing Accuracy",
+          "value": "100%"
+        }
+      ],
+      "overview": "Corporate tax compliance portal providing tax calculators, regulatory updates, and filing assistance.",
+      "challenge": "Rapidly changing fiscal policies requiring dynamic tax calculator rules.",
+      "solution": "Rules engine configurable directly by tax consultants without code deployments.",
+      "results": "Saved clients over 2,000 hours in manual tax documentation.",
+      "status": "published",
+      "order": 5,
+      "createdAt": "2026-10-01T10:01:50.021Z",
+      "updatedAt": "2026-10-01T10:01:50.021Z",
+      "_id": "6ac54bc439ce8a56db90a397"
+    }
+  ],
+  "smtpSettings": {
+    "fromEmail": "regardstech24@gmail.com",
+    "fromName": "Regards Tech",
+    "host": "smtp.gmail.com",
+    "isConfigured": true,
+    "pass": "lnuubmowttchpxto",
+    "port": 465,
+    "secure": true,
+    "updatedAt": "2026-10-06T19:26:09.283Z",
+    "user": "regardstech24@gmail.com"
+  }
+}
